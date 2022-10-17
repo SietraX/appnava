@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# appnava
 =======
 # Getting Started with Create React App
 
